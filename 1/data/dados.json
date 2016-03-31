@@ -1,0 +1,21 @@
+{
+    "estados":
+    [
+        {
+            "id": 1,
+            "nome": "RIO DE JANEIRO"
+        },
+        {
+            "id": 2,
+            "nome": "MATO GROSSO"           
+        },
+        {
+            "id": 3,
+            "nome": "SÃO PAULO"
+        },
+        {
+            "id": 4,
+            "nome": "MINAS GERAIS"
+        }
+    ]
+}

@@ -1,0 +1,27 @@
+* {
+	padding: 0;
+	margin: 0;
+}
+
+#content {
+	padding: 20px;
+	background-color: green;
+	text-align: center;
+}
+
+#informa {
+
+	background-color: white;
+	text-align: center;
+}
+
+#texto {	
+	padding: 20px;
+	text-align: center;
+}
+
+#Jogo{
+
+	text-align: center;
+	padding: 80px;
+}

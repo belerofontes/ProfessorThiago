@@ -1,0 +1,14 @@
+{
+    "imagens":
+    [
+        {
+            "fla": "img/camisa.jpg"
+        },
+        {
+           "fla1": "img/fla.jpg"
+        },
+        {
+            "fla2": "img/liberta.jpg"
+        }
+    ]
+}
